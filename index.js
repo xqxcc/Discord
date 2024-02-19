@@ -33,7 +33,7 @@ client.on('ready', async () => {
 
     
 
-    .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1205616250131058719/1208257581257330728/e73db1d568520988017d853e2e722568.gif?ex=65e2a08f&is=65d02b8f&hm=2b0ef840fc395253d523b2a73473c7188dcd3b6795407a8cac0119b3a823456b&') 
+    .setAssetsLargeImage('https://media.discordapp.net/attachments/1205616250131058719/1207149994348511293/IMG_2306.jpg?ex=65de990a&is=65cc240a&hm=3ca154318e5f4c0205ce97d861269d1e68c3cb2b6c8c9542b1713f307ee05ef5&=&format=webp&width=740&height=416') 
     .addButton('深沉的梦','https://discord.gg/pornhentai')
     
 
