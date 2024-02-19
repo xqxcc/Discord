@@ -27,14 +27,14 @@ client.on('ready', async () => {
     .setType('STREAMING')
     .setURL('https://www.twitch.tv/losfutbolitos') //Must be a youtube video link 
     
-    .setName('/yxn')
-    .setDetails(`/yxn [${formatTime()}]`)
+    .setName('所有者')
+    .setDetails(`深沉的梦 [${formatTime()}]`)
     .setStartTimestamp(Date.now())
 
     
 
     .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1205616250131058719/1208257581257330728/e73db1d568520988017d853e2e722568.gif?ex=65e2a08f&is=65d02b8f&hm=2b0ef840fc395253d523b2a73473c7188dcd3b6795407a8cac0119b3a823456b&') 
-    .addButton('/ixi','https://discord.gg/blackparty')
+    .addButton('深沉的梦','https://discord.gg/pornhentai')
     
 
 
@@ -45,7 +45,7 @@ client.on('ready', async () => {
   setInterval(() => {
     const newTime = formatTime();
     if (newTime !== prevTime) {
-      const newDetails = `/xtth`;
+      const newDetails = `所有者`;
       r.setDetails(newDetails);
       client.user.setActivity(r);
       prevTime = newTime;
