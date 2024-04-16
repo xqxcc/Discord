@@ -27,14 +27,14 @@ client.on('ready', async () => {
     .setType('STREAMING')
     .setURL('https://www.twitch.tv/losfutbolitos') //Must be a youtube video link 
     
-    .setName('所有者')
-    .setDetails(`深沉的梦 [${formatTime()}]`)
+    .setName('777')
+    .setDetails(`222 [${formatTime()}]`)
     .setStartTimestamp(Date.now())
 
     
 
-    .setAssetsLargeImage('https://media.discordapp.net/attachments/1205616250131058719/1208257579613159534/179b86118437845.608939cff2aee.gif?ex=65e2a08f&is=65d02b8f&hm=93bf8a0c139933297041b7231676f08fb952598bac069e7ee006ba22f1ec2f30&=&width=640&height=360') 
-    .addButton('深沉的梦','https://discord.gg/pornhentai')
+    .setAssetsLargeImage('https://i.pinimg.com/564x/b0/50/5a/b0505acba4e7b56de7a710a4616e74c0.jpg') 
+    .addButton('777','https://discord.gg/pornhentai')
     
 
 
