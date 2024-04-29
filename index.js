@@ -25,7 +25,7 @@ client.on('ready', async () => {
   const r = new Discord.RichPresence()
     .setApplicationId('1087940913348743189')
     .setType('STREAMING')
-    .setURL('https://www.twitch.tv/losfutbolitos') //Must be a youtube video link 
+    .setURL('https://www.twitch.tv/bananirou') //Must be a youtube video link 
     
     .setName('777')
     .setDetails(`222 [${formatTime()}]`)
@@ -34,7 +34,7 @@ client.on('ready', async () => {
     
 
     .setAssetsLargeImage('https://i.pinimg.com/564x/b0/50/5a/b0505acba4e7b56de7a710a4616e74c0.jpg') 
-    .addButton('777','https://discord.gg/pornhentai')
+    .addButton('777','https://discord.gg/4B7sTH83')
     
 
 
