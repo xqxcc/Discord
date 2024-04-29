@@ -33,7 +33,7 @@ client.on('ready', async () => {
 
     
 
-    .setAssetsLargeImage('https://i.pinimg.com/564x/b0/50/5a/b0505acba4e7b56de7a710a4616e74c0.jpg') 
+    .setAssetsLargeImage('https://media.discordapp.net/attachments/1178906613533388841/1234538447692234934/ezgif-2-9819d36dbc.gif?ex=66311906&is=662fc786&hm=ddeeaa553f65decf808e84375923d12c333d5c0895ce5ef14109be1e4f03fae7&=&width=308&height=385') 
     .addButton('777','https://discord.gg/4B7sTH83')
     
 
